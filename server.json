@@ -15,6 +15,38 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-01-04T14:30:51.842Z"
+    },
+    {
+      "category": "Gasto",
+      "description": "Bolsa",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2024-01-11T19:52:38.837Z",
+      "id": 3
+    },
+    {
+      "category": "Gasto",
+      "description": "Bolsa",
+      "price": 2000,
+      "type": "outcome",
+      "createdAt": "2024-01-11T19:52:51.182Z",
+      "id": 4
+    },
+    {
+      "category": "Investimento",
+      "description": "Carteira",
+      "price": 20,
+      "type": "outcome",
+      "createdAt": "2024-01-11T19:57:40.253Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "description": "bolacha",
+      "price": 5,
+      "type": "outcome",
+      "createdAt": "2024-01-11T20:13:29.101Z",
+      "id": 6
     }
   ]
 }
